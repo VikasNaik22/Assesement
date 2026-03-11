@@ -4,18 +4,95 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2971d2fd-710c-47c3-8b7b-2d30c45cd723" name="Changes" comment="" />
+    <list default="true" id="2971d2fd-710c-47c3-8b7b-2d30c45cd723" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/BinarySearchIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/DifferenceArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/EvenIndexEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/FirstLastOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/KadaneAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/LongestSubarraySumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/NegativePositivePartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/SearchRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment3/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/FinalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/GCDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/StaticDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/StringDemo.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3ABrRY9jo4dOYlYhW7w9UxRuqTa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Desktop/Assessment week 1&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2971d2fd-710c-47c3-8b7b-2d30c45cd723" name="Changes" comment="" />
+      <created>1772076800371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772076800371</updated>
+      <workItem from="1772076804334" duration="65000" />
+      <workItem from="1772694784134" duration="77000" />
+      <workItem from="1773240154278" duration="147000" />
+      <workItem from="1773240626537" duration="261000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
